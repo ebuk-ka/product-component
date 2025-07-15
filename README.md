@@ -9,4 +9,4 @@ This is a simple frontend project that displays the item, the price ,the details
 -OS: Windows, macOS, or Linux
 ### Installing 
 Clone this to your local machine :
-https://github.com/ebuk-ka/profile-card.git
+https://github.com/ebuk-ka/product-component.git
